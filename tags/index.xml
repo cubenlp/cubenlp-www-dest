@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ECNU NLP</title>
-    <link>https://example.org/tags/</link>
+    <link>https://enrio.site/tags/</link>
     <description>Recent content in Tags on ECNU NLP</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://enrio.site/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
