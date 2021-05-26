@@ -414,6 +414,22 @@ nav {
 .speakers-name {
   font-size: 1.6em;
 }
+
+.speaker-pages {
+  font-size: 1.6em;
+}
+
+.speaker-email {
+  font-size: 1.6em;
+}
+
+.speaker-email a{
+  padding-right: 12px;
+}
+
+.speaker-pages a{
+  padding-right: 9px;
+}
 .speakers-item p {
   font-size: 1.4em;
 }
@@ -904,8 +920,6 @@ nav {
   display: flex;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  margin-right: -15px;
-  margin-left: -15px;
 }
 
 .col-lg-3 {
@@ -915,8 +929,6 @@ nav {
 }
 
 .container {
-  padding-right: 15px;
-  padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
 }
