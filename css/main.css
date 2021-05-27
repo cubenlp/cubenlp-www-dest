@@ -558,6 +558,7 @@ nav {
 .row {
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 .col-lg-3 {
@@ -675,6 +676,9 @@ nav {
   .form .btn {
     margin-bottom: 50px;
   }
+  .schedule-description {
+    display: none;
+  }
 }
 @media only screen and (max-width: 480px) {
   /* nav */
@@ -682,7 +686,7 @@ nav {
     display: none;
   }
   .header {
-    padding: 20px 0;
+    padding: 40px 0;
   }
   .logo-name {
     font-size: 4em;
@@ -977,6 +981,7 @@ nav {
   .header {
     margin-bottom: 15px;
   }
+  
 }
 @media only screen and (max-width: 480px) {
   /* speakers */
