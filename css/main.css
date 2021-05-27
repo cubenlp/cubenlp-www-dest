@@ -534,6 +534,65 @@ nav {
 .form .btn {
   float: right;
 }
+
+/* =============================================================================
+   FOOTER
+   ========================================================================== */
+
+.footer{
+  background-color: #333;
+  font-size: 14px;
+  font-weight: 300;
+  text-align: left;
+  color: #fff;
+  line-height: 24px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.footer-container {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width:960px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.col-lg-3 {
+  -ms-flex: 0 0 25%;
+  flex: 0 0 25%;
+  max-width: 25%;
+}
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.footer-title {
+  text-transform: uppercase;
+  margin-bottom: 3px;
+  font-weight: 600;
+  font-size: 12px;
+}
+.footer a {
+  color: #fff;
+}
+.small, small {
+  font-size: 80%;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300;
+  src: url(https://fonts.gstatic.com/s/opensans/v20/memnYaGs126MiZpBA-UFUKWyV9hmIqOjjg.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
 /* =============================================================================
    Media Queries
    ========================================================================== */
@@ -548,6 +607,17 @@ nav {
   }
   .about {
     margin: 0;
+  }
+
+  .footer-container {
+    width:100%;
+    margin-top: 15px;
+  }
+  .col-lg-3 {
+    padding-left:15px;
+    flex: 0 0 25%;
+    max-width: 25%;
+    min-width: 200px;
   }
 }
 @media only screen and (min-width: 320px) and (max-width: 800px) {
@@ -899,68 +969,13 @@ nav {
   outline: 0;
 }
 
-.footer{
-  background-color: #333;
-  font-size: 14px;
-  font-weight: 300;
-  text-align: left;
-  color: #fff;
-  line-height: 24px;
-  font-family: "Open Sans", sans-serif;
-}
-
-.footer-container {
-  padding-top: 20px;
-  padding-bottom: 20px;
-  width:960px;
-}
-
-.row {
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-}
-
-.col-lg-3 {
-  -ms-flex: 0 0 25%;
-  flex: 0 0 25%;
-  max-width: 25%;
-}
-
-.container {
-  margin-right: auto;
-  margin-left: auto;
-}
-
-.footer-title {
-  text-transform: uppercase;
-  margin-bottom: 3px;
-  font-weight: 600;
-  font-size: 12px;
-}
-.footer a {
-  color: #fff;
-}
-.small, small {
-  font-size: 80%;
-  font-weight: 400;
-}
-
-@font-face {
-  font-family: 'Open Sans';
-  font-style: italic;
-  font-weight: 300;
-  src: url(https://fonts.gstatic.com/s/opensans/v20/memnYaGs126MiZpBA-UFUKWyV9hmIqOjjg.woff2) format('woff2');
-  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
-}
 
 /* =============================================================================
    Media Queries
    ========================================================================== */
 @media only screen and (max-width: 1024px) {
   .header {
-    background-size: auto 100%;
+    margin-bottom: 15px;
   }
 }
 @media only screen and (max-width: 480px) {
