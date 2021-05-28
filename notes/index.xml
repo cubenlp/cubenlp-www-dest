@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes on CubeNLP</title>
-    <link>https://hugo-toha.github.io/notes/</link>
+    <link>https://cubenlp.vercel.app/notes/</link>
     <description>Recent content in Notes on CubeNLP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn</language>
     <lastBuildDate>Tue, 08 Jun 2010 08:06:25 +0600</lastBuildDate>
     
-	<atom:link href="https://hugo-toha.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cubenlp.vercel.app/notes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Resultados de Búsqueda</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>https://cubenlp.vercel.app/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>https://cubenlp.vercel.app/search/</guid>
       <description>Este archivo existe únicamente para responder a la URL /search con la plantilla de diseño search relacionada.
 No se muestra ningún contenido aquí, todo el contenido se basa en la plantilla layouts/page/search.html
 Establecer una prioridad muy baja en el mapa del sitio le dirá a los motores de búsqueda que éste no es un contenido importante.
@@ -26,10 +26,10 @@ Configuración inicial La búsqueda depende del tipo de contenido de salida adic
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>https://cubenlp.vercel.app/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>https://cubenlp.vercel.app/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -39,10 +39,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>https://cubenlp.vercel.app/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>https://cubenlp.vercel.app/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -52,10 +52,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>https://cubenlp.vercel.app/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>https://cubenlp.vercel.app/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -65,10 +65,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>https://cubenlp.vercel.app/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>https://cubenlp.vercel.app/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -78,10 +78,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>https://cubenlp.vercel.app/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>https://cubenlp.vercel.app/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -91,10 +91,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>https://cubenlp.vercel.app/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>https://cubenlp.vercel.app/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -104,10 +104,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>https://cubenlp.vercel.app/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>https://cubenlp.vercel.app/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -117,10 +117,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>https://cubenlp.vercel.app/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>https://cubenlp.vercel.app/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -130,10 +130,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>https://cubenlp.vercel.app/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>https://cubenlp.vercel.app/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -143,10 +143,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>Search Results</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>https://cubenlp.vercel.app/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>https://cubenlp.vercel.app/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
@@ -156,10 +156,10 @@ Initial setup Search depends on additional output content type of JSON in config
     
     <item>
       <title>অনুসন্ধানের ফলাফল</title>
-      <link>https://hugo-toha.github.io/search/</link>
+      <link>https://cubenlp.vercel.app/search/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/search/</guid>
+      <guid>https://cubenlp.vercel.app/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
