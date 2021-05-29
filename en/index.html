@@ -40,8 +40,7 @@
 <link rel="stylesheet" href="/css/flag-icon.min.css"/>
 
 
-<link href="https://fonts.googleapis.com/css2?family=Muli:wght@300;400;500;600" rel="stylesheet">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" />
+<link rel="stylesheet" href="/fontawesome/css/all.min.css" />
 
 
 <link rel="icon" type="image/png" href="/images/cubenlp_hu86fc77ca2054217549be03fd74ff8675_22209_42x0_resize_box_2.png" />
@@ -52,8 +51,8 @@
     <link rel="stylesheet" href="/css/sections/home.css"/>
     <link rel="stylesheet" href="/css/sections/about.css"/>
     <link rel="stylesheet" href="/css/sections/skills.css"/>
-    <link rel="stylesheet" href="/css/sections/members.css"/>
     <link rel="stylesheet" href="/css/sections/experiences.css"/>
+    <link rel="stylesheet" href="/css/sections/members.css"/>
     <link rel="stylesheet" href="/css/sections/education.css"/>
     <link rel="stylesheet" href="/css/sections/projects.css"/>
     <link rel="stylesheet" href="/css/sections/recent-posts.css"/>
@@ -266,6 +265,10 @@
 
 
 
+
+
+
+
 <div class="container-fluid home" id="home">
   <style>
      
@@ -289,7 +292,12 @@
           background-image: url('https://cubenlp.vercel.app/images/default-background_hu3d03a01dcc18bc5be0e67db3d8d209a6_1182514_1500x0_resize_q75_box.jpg');
         }
     }
-    @media (min-width: 1501px) {  
+    @media (min-width: 1501px) and (max-width: 4000px)  {  
+      #homePageBackgroundImageDivStyled {   
+          background-image: url('https://cubenlp.vercel.app/images/default-background_hu3d03a01dcc18bc5be0e67db3d8d209a6_1182514_4000x0_resize_q75_box.jpg');
+        }
+    }
+    @media (min-width: 4001px)  {  
       #homePageBackgroundImageDivStyled {   
           background-image: url('https://cubenlp.vercel.app/images/default-background.jpg');
         }
@@ -1187,7 +1195,7 @@
                   });
                   var icon = new AMap.Icon({
                       size: new AMap.Size(50, 50),    
-                      image: '/img/map_pointer.png',  
+                      image: '/images/map_pointer.png',  
                       imageSize: new AMap.Size(50, 50)   
                   });
                   var marker = new AMap.Marker({
@@ -1196,7 +1204,6 @@
                           offset: new AMap.Pixel(-25, -45),
                       });
                   marker.setMap(map);
-                  console.log(123)
               </script>
             
           </div>
