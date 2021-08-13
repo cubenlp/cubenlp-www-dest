@@ -6,10 +6,19 @@
     <description>Recent content in Posts on CubeNLP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn</language>
-    <lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate>
+    <lastBuildDate>Thu, 12 Aug 2021 03:06:55 +0600</lastBuildDate>
     
 	<atom:link href="https://www.cubenlp.cn/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PSR</title>
+      <link>https://www.cubenlp.cn/posts/psr/</link>
+      <pubDate>Thu, 12 Aug 2021 03:06:55 +0600</pubDate>
+      
+      <guid>https://www.cubenlp.cn/posts/psr/</guid>
+      <description>Are Negative Samples Necessary in Entity Alignment? An Approach with High Performance, Scalability and Robustness</description>
+    </item>
     
     <item>
       <title>Dual-AMN</title>
