@@ -3,70 +3,70 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.cubenlp.cn/</loc>
+    <loc>https://cubenlp.cn/</loc>
     <lastmod>2021-08-12T03:06:55+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.cubenlp.cn/en/"
+                href="https://cubenlp.cn/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://www.cubenlp.cn/"
+                href="https://cubenlp.cn/"
                 />
   </url>
   
   <url>
-    <loc>https://www.cubenlp.cn/posts/</loc>
+    <loc>https://cubenlp.cn/posts/</loc>
     <lastmod>2021-08-12T03:06:55+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.cubenlp.cn/posts/psr/</loc>
+    <loc>https://cubenlp.cn/posts/psr/</loc>
     <lastmod>2021-08-12T03:06:55+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.cubenlp.cn/posts/dual-amn/</loc>
+    <loc>https://cubenlp.cn/posts/dual-amn/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.cubenlp.cn/posts/mraea/</loc>
+    <loc>https://cubenlp.cn/posts/mraea/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.cubenlp.cn/posts/prea/</loc>
+    <loc>https://cubenlp.cn/posts/prea/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.cubenlp.cn/categories/</loc>
+    <loc>https://cubenlp.cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.cubenlp.cn/en/categories/"
+                href="https://cubenlp.cn/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://www.cubenlp.cn/categories/"
+                href="https://cubenlp.cn/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://www.cubenlp.cn/tags/</loc>
+    <loc>https://cubenlp.cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.cubenlp.cn/en/tags/"
+                href="https://cubenlp.cn/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://www.cubenlp.cn/tags/"
+                href="https://cubenlp.cn/tags/"
                 />
   </url>
   
