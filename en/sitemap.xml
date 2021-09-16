@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cubenlp.cn/en/categories/</loc>
+    <loc>https://www.cubenlp.cn/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://cubenlp.cn/categories/"
+                href="https://www.cubenlp.cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cubenlp.cn/en/categories/"
+                href="https://www.cubenlp.cn/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://cubenlp.cn/en/</loc>
+    <loc>https://www.cubenlp.cn/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://cubenlp.cn/"
+                href="https://www.cubenlp.cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cubenlp.cn/en/"
+                href="https://www.cubenlp.cn/en/"
                 />
   </url>
   
   <url>
-    <loc>https://cubenlp.cn/en/tags/</loc>
+    <loc>https://www.cubenlp.cn/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://cubenlp.cn/tags/"
+                href="https://www.cubenlp.cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://cubenlp.cn/en/tags/"
+                href="https://www.cubenlp.cn/en/tags/"
                 />
   </url>
   
