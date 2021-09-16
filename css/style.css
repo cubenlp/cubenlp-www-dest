@@ -2,6 +2,10 @@
 
 /* ============= Device specific fixes ======= */
 
+.bilibili-player-video-sendjumpbar{
+    display: none;
+}
+
 /* Large screens such as TV */
 @media only screen and (min-width: 1824px) {
 }
