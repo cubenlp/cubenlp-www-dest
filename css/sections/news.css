@@ -30,6 +30,8 @@
 
 .timeline .vertical-line {
   align-self: stretch;
+  position: relative;
+  padding: 0;
 }
 
 .timeline .vertical-line::after {
@@ -41,10 +43,9 @@
   left: 50%;
 }
 
-.vertical-line-left-adjustment::after {
+.justify-content-end .vertical-line::after {
   left: calc(50% - 3px) !important;
 }
-
 .timeline .horizontal-line div {
   padding: 0;
   height: 40px;
